@@ -31,7 +31,7 @@ class SimuladorDeDados:
             else:
                 print('Favor digitar sim ou não')
         except:
-            print('Ocorreu um erro ao receber sua resposta')
+            print('Ocorreu um erro ao receber sua resposta!')
 
     def gerar_valor_do_dado(self):
         print(random.randint(self.valor_minimo, self.valor_maximo))
