@@ -44,7 +44,7 @@ class ChuteONumero:
                             print('PARABÉNS VOCÊ ACERTOU!!')
                             break
         except:
-            print('Favor digitar anepnas numeros!')
+            print('Favor digitar anepnas numeros!!')
             self.iniciar()
 
 
