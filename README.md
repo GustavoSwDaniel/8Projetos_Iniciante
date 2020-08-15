@@ -11,7 +11,7 @@
   Projeto 7 e 8 é um script que realizada uma historia de aventura(algo bem simples) onde cada ação do usuario tera uma impacto na historia.
 
 
-### Nesses Projetos foi utilizada python3.8 e as libs random e PySimpleGUI
+### Nesses Projetos foram utilizados o python3.8 e as libs random e PySimpleGUI
    Sendo a lib random nativa do python
    
     pip install PySimpleGUI
